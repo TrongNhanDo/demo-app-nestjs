@@ -1,4 +1,4 @@
-import { Post } from 'src/entities/types';
+import { Post } from '../entities/types';
 
 export class CreatePostDto extends Post {}
 
